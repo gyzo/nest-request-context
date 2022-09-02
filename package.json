@@ -1,5 +1,5 @@
 {
-  "name": "nest-request-context",
+  "name": "gyzo-nest-request-context",
   "version": "1.0.0",
   "description": "NestJS Request Context based on node's AsyncLocalStorage",
   "author": "xdave <xdave@users.noreply.github.com>",
@@ -7,7 +7,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/xdave/nest-request-context"
+    "url": "https://github.com/gyzo/nest-request-context"
   },
   "files": [
     "dist"
